@@ -1,1 +1,1 @@
-# Gaming-blocklist
+# Gaming blocklist
