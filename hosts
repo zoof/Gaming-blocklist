@@ -18,8 +18,9 @@ valorant.dyn.riotcdn.net                # Valorant
 ekg.riotgames.com                       # Valorant
 na.lers.loyalty.riotgames.com           # Valorant
 clientconfig.rpg.riotgames.com          # Valorant
-entitlements.auth.riotgames.com         # Valorant  
-riot-geo.pas.si.riotgames.com           # Valorant 
+entitlements.auth.riotgames.com         # Valorant
+riot-geo.pas.si.riotgames.com           # Valorant
 riot-geo.vts.si.riotgames.com           # Valorant
+pft-aresdev.rdatasrv.net                # Valorant
 datarouter-prod.ak.epicgames.com        # Fortnite
 datarouter.ol.epicgames.com             # Fortnite
