@@ -1,29 +1,29 @@
 # surviv.io
-0.0.0.0 surviv.io
-0.0.0.0 na-nyc-p1.surviv.io
-0.0.0.0 na-sfo-p1.surviv.io
-0.0.0.0 na-chi-p1.surviv.io
+surviv.io
+na-nyc-p1.surviv.io
+na-sfo-p1.surviv.io
+na-chi-p1.surviv.io
 # Valorant
-0.0.0.0 pd.na.a.pvp.net                         
-0.0.0.0 riot-geo.vts.si.riotgames.com
-0.0.0.0 glz-na-1.na.a.pvp.net
-0.0.0.0 valorant.secure.dyn.riotcdn.net
-0.0.0.0 data.riotgames.com
-0.0.0.0 shared.na.a.pvp.net
-0.0.0.0 usw.pp.riotgames.com
-0.0.0.0 pdx2collector.rtp.service.riotgames.com
-0.0.0.0 na.vg.ac.pvp.net
-0.0.0.0 authenticate.riotgames.com
-0.0.0.0 valorant.iesdev.com
-0.0.0.0 playerpreferences.riotgames.com
-0.0.0.0 valorant.dyn.riotcdn.net
-0.0.0.0 ekg.riotgames.com
-0.0.0.0 na.lers.loyalty.riotgames.com
-0.0.0.0 clientconfig.rpg.riotgames.com
-0.0.0.0 entitlements.auth.riotgames.com
-0.0.0.0 riot-geo.pas.si.riotgames.com
-0.0.0.0 riot-geo.vts.si.riotgames.com
-0.0.0.0 pft-aresdev.rdatasrv.net
+pd.na.a.pvp.net                         
+riot-geo.vts.si.riotgames.com
+glz-na-1.na.a.pvp.net
+valorant.secure.dyn.riotcdn.net
+data.riotgames.com
+shared.na.a.pvp.net
+usw.pp.riotgames.com
+pdx2collector.rtp.service.riotgames.com
+na.vg.ac.pvp.net
+authenticate.riotgames.com
+valorant.iesdev.com
+playerpreferences.riotgames.com
+valorant.dyn.riotcdn.net
+ekg.riotgames.com
+na.lers.loyalty.riotgames.com
+clientconfig.rpg.riotgames.com
+entitlements.auth.riotgames.com
+riot-geo.pas.si.riotgames.com
+riot-geo.vts.si.riotgames.com
+pft-aresdev.rdatasrv.net
 # Fortnite
-0.0.0.0 datarouter-prod.ak.epicgames.com
-0.0.0.0 datarouter.ol.epicgames.com
+datarouter-prod.ak.epicgames.com
+datarouter.ol.epicgames.com
