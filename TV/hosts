@@ -3,4 +3,6 @@ www.dradis.netflix.com
 www.us-east-1.internal.dradis.netflix.com
 ichnaea-web.netflix.com
 # Amazon Prime video
-iad.t200.prod.ter.amazonvideo.com
+#iad.t200.prod.ter.amazonvideo.com
+# Disney Plus
+www.disneyplus.com.edgekey.net
