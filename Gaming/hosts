@@ -17,6 +17,7 @@ pdx2collector.rtp.service.riotgames.com
 na.vg.ac.pvp.net
 authenticate.riotgames.com
 valorant.iesdev.com
+data.iesdev.com
 playerpreferences.riotgames.com
 valorant.dyn.riotcdn.net
 ekg.riotgames.com
@@ -26,6 +27,8 @@ entitlements.auth.riotgames.com
 riot-geo.pas.si.riotgames.com
 riot-geo.vts.si.riotgames.com
 pft-aresdev.rdatasrv.net
+api.account.riotgames.com
+api.account.riotgames.com.cdn.cloudflare.net
 # Fortnite
 datarouter-prod.ak.epicgames.com
 datarouter.ol.epicgames.com
